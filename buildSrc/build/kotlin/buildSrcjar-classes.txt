@@ -1,0 +1,1 @@
+/home/yevgen/StudioProjects/OpenWrtInfo/buildSrc/build/classes/kotlin/main/ConfigData.class:/home/yevgen/StudioProjects/OpenWrtInfo/buildSrc/build/classes/kotlin/main/Versions.class
